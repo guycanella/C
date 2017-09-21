@@ -1,2 +1,2 @@
 # C
-Programming made in C
+Programming and functions in C
